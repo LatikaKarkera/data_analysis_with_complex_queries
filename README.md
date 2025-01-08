@@ -58,3 +58,7 @@ Conclusion
 In this project, we demonstrated advanced data analysis techniques in SQL using Window Functions, Subqueries, and Common Table Expressions (CTEs). By applying these techniques, we were able to identify meaningful trends and patterns in the sales data, such as the total sales by region, regions outperforming the average, product sales performance, and ranking of products by their sales. These insights are crucial for decision-making, helping businesses understand regional performance, product popularity, and areas that need improvement. This project showcased the power of SQL for performing advanced data analysis and generating actionable insights from raw sales data.
 
 #OUTPUT:
+![Screenshot 2025-01-08 233521](https://github.com/user-attachments/assets/e6f79542-c2a0-4afa-a367-f17b46381e0b)
+![Screenshot 2025-01-08 233600](https://github.com/user-attachments/assets/23b56781-ccff-4da4-af69-423195a15e73)
+![Screenshot 2025-01-08 233620](https://github.com/user-attachments/assets/e8cf5e2a-a0d7-40ad-afaf-14bdef569343)
+![Screenshot 2025-01-08 233633](https://github.com/user-attachments/assets/80afa528-961b-4462-9963-cfdaf2bff982)
